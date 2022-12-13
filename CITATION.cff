@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Filipovich"
+      given-names: "Matthew J."
+      orcid: "https://orcid.org/0000-0002-2195-698X"
+    - family-names: "Guo"
+      given-names: "Zhimu"
+    - family-names: "Al-Qadasi"
+      given-names: "Mohammed"
+    - family-names: "Marquez"
+      given-names: "Bicky A."
+    - family-names: "Morison"
+      given-names: "Hugh D."
+    - family-names: "Sorger"
+      given-names: "Volker J."
+    - family-names: "Prucnal"
+      given-names: "Paul R."
+    - family-names: "Shekhar"
+      given-names: "Sudip"
+    - family-names: "Shastri"
+      given-names: "Bhavin J."
+      orcid: "https://orcid.org/0000-0001-5040-8248"
+  doi: "10.1364/OPTICA.475493"
+  journal: "Optica"
+  month: 12
+  start: 1323
+  title: "Silicon photonic architecture for training deep neural networks with direct feedback alignment"
+  volume: 9
+  year: 2022
